@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Software engineer with 3 years of experience working with Android (Java/Kotlin) and an MSc in Data Analytics, combining excellent engineering abilities with the ability to solve problems using data based in Dublin, Ireland.</h3>
+<h3 align="center">Software Engineer with 3 years of experience working with Android (Java/Kotlin) and an MSc in Data Analytics, combining excellent engineering abilities with the ability to solve problems using data based in Dublin, Ireland.</h3>
 
 ###
 
