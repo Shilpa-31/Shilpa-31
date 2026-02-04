@@ -82,16 +82,15 @@
 
 ###
 
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=er-shilpa-kumari&show_icons=true&theme=onedark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilpa-31&show_icons=true&theme=onedark&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=er-shilpa-kumari&theme=onedark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Shilpa-31&theme=onedark&hide_border=true)
 
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=er-shilpa-kumari&theme=onedark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shilpa-31&theme=onedark&hide_border=true)
 
-![Views](https://komarev.com/ghpvc/?username=er-shilpa-kumari&label=Profile%20Views&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shilpa-31&label=Profile%20Views&style=for-the-badge)
 
 </div>
 
