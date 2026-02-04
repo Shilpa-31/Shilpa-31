@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Passionate about leveraging data to build smarter, data-driven solutions based in Dublin, Ireland.</h3>
+<h3 align="center">Software engineer with 3 years of experience working with Android (Java/Kotlin) and an MSc in Data Analytics, combining excellent engineering abilities with the ability to solve problems using data based in Dublin, Ireland.</h3>
 
 ###
 
@@ -84,13 +84,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shilpa-31&show_icons=true&theme=onedark&hide_border=true)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shilpa-31&show_icons=true&theme=onedark&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Shilpa-31&theme=onedark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Shilpa-31&theme=onedark&hide_border=true" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shilpa-31&theme=onedark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shilpa-31&label=Profile%20Views&style=for-the-badge)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shilpa-31&theme=onedark&hide_border=true" />
 
 </div>
 
