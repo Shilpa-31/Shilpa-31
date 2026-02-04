@@ -81,15 +81,3 @@
 </div>
 
 ###
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shilpa-31&show_icons=true&theme=onedark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=Shilpa-31&theme=onedark&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shilpa-31&theme=onedark&hide_border=true" />
-
-</div>
-
-###
