@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shilpa Kumari</h1>
 <h3 align="center">
-Data Enthusiast |  Software Engineer | Android Developer <br/>
+Data Enthusiast |  Android Software Engineer <br/>
 📍 Dublin, Ireland
 </h3>
 
@@ -16,7 +16,7 @@ Passionate about leveraging data to build intelligent, scalable, data-driven sol
 
 - 🔭 I’m currently working on **data analytics projects & upskilling**
 - 🌱 Learning more about **Data Pipeline & Cloud Data Platforms**
-- 👯 Open to collaborating on **Data Analytics Projects**
+- 👯 Open to collaborating on **Data Analytics and Android Application Development Projects**
 - 💬 Ask me about **Java, Android HMI Development, Python, SQL, Data Analysis, ETL**
 - 📫 Reach me at **shilpasingh.aur@gmail.com**
 
